@@ -1,0 +1,28 @@
+student_id,subject,session_id,status,date
+S26CSEU1558,Python Programming,PY-001,Present,2026-08-03
+S26CSEU1558,Python Programming,PY-002,Present,2026-08-05
+S26CSEU1558,Python Programming,PY-003,Absent,2026-08-07
+S26CSEU1558,Python Programming,PY-004,Present,2026-08-10
+S26CSEU1558,Python Programming,PY-004,Absent,2026-08-10
+S26CSEU1558,Mathematics,MA-001,Present,2026-08-04
+S26CSEU1558,Mathematics,MA-002,Present,2026-08-06
+S26CSEU1576,Python Programming,PY-001,Present,2026-08-03
+S26CSEU1576,Python Programming,PY-002,Present,2026-08-05
+S26CSEU1576,Python Programming,PY-003,Present,2026-08-07
+S26CSEU1576,Python Programming,PY-004,Present,2026-08-10
+S26CSEU1576,Mathematics,MA-001,Absent,2026-08-04
+S26CSEU1576,Mathematics,MA-002,Present,2026-08-06
+S26CSEU1579,Python Programming,PY-001,Absent,2026-08-03
+S26CSEU1579,Python Programming,PY-002,Present,2026-08-05
+S26CSEU1579,Python Programming,PY-003,Absent,2026-08-07
+S26CSEU1579,Mathematics,MA-001,Present,2026-08-04
+S26CSEU1579,Mathematics,MA-002,Present,2026-08-06
+S26CSEU1565,Python Programming,PY-001,Present,2026-08-03
+S26CSEU1565,Python Programming,PY-002,Present,2026-08-05
+S26CSEU1565,Mathematics,MA-001,Present,2026-08-04
+S26CSEU1565,Mathematics,MA-002,Absent,2026-08-06
+S26CSEU1571,Python Programming,PY-001,Present,2026-08-03
+S26CSEU1571,Python Programming,PY-002,Absent,2026-08-05
+S26CSEU1571,Python Programming,PY-003,Present,2026-08-07
+S26CSEU1571,Mathematics,MA-001,Present,2026-08-04
+S26CSEU1571,Mathematics,MA-002,Present,2026-08-06
